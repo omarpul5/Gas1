@@ -4,12 +4,13 @@
     background: #E9F1F8;
 }
 .u-title{
-    border-bottom: 2px dashed #00DBFF;
+    border-bottom: 2px dashed #FFC930;
     color: #ffffff;
     font-weight: 400;
     padding-bottom: .5em;
     text-align: center;
     padding-top: 35px;
+    font-size: 30px;
 }
 
 .u-containerDefault{
@@ -87,7 +88,7 @@
 
 .Profile{
     text-align: center;
-    background-color: #FFC930;
+    background-color: #4C59B9;
 }
 
 .Profile-link{
